@@ -1,3 +1,2 @@
-# Build artifacts are published as GitHub Releases, not stored in git
+# Build artifacts (and their checksums) are published as GitHub Releases, not stored in git
 llamafile-*
-!llamafile-*.sha256
